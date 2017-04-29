@@ -1,0 +1,49 @@
+Added Component: Designator=C1(R0805)
+Added Component: Designator=C2(R0805)
+Added Component: Designator=C3(R0805)
+Added Component: Designator=C4(R0805)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=Temp1(MLX90614)
+Added Component: Designator=Temp2(MLX90614)
+Added Component: Designator=Temp3(MLX90614)
+Added Component: Designator=Temp4(MLX90614)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=Temp1-2
+Added Pin To Net: NetName=GND Pin=Temp2-2
+Added Pin To Net: NetName=GND Pin=Temp3-2
+Added Pin To Net: NetName=GND Pin=Temp4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=SCL Pin=P1-4
+Added Pin To Net: NetName=SCL Pin=R2-1
+Added Pin To Net: NetName=SCL Pin=Temp1-1
+Added Pin To Net: NetName=SCL Pin=Temp2-1
+Added Pin To Net: NetName=SCL Pin=Temp3-1
+Added Pin To Net: NetName=SCL Pin=Temp4-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=R1-1
+Added Pin To Net: NetName=SDA Pin=Temp1-0
+Added Pin To Net: NetName=SDA Pin=Temp2-0
+Added Pin To Net: NetName=SDA Pin=Temp3-0
+Added Pin To Net: NetName=SDA Pin=Temp4-0
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=Temp1-3
+Added Pin To Net: NetName=VCC Pin=Temp2-3
+Added Pin To Net: NetName=VCC Pin=Temp3-3
+Added Pin To Net: NetName=VCC Pin=Temp4-3
+Added Net: Name=VCC
+Added Class: Name=tyre_temps
+Added Room: Name=tyre_temps
