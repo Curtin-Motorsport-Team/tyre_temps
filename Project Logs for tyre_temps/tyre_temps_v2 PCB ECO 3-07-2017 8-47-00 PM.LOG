@@ -1,0 +1,145 @@
+Added Component: Designator=C3_U_TempSensor1(R0805)
+Added Component: Designator=C3_U_TempSensor2(R0805)
+Added Component: Designator=C3_U_TempSensor3(R0805)
+Added Component: Designator=C3_U_TempSensor4(R0805)
+Added Component: Designator=C5(R0805)
+Added Component: Designator=C11(R0805)
+Added Component: Designator=C21(R0805)
+Added Component: Designator=J1(STM32F072CBU6 - duplicate)
+Added Component: Designator=L11(INDUCTOR)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P4(HDR1X5)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R11(R0805)
+Added Component: Designator=R21(R0805)
+Added Component: Designator=REG1(TPS54395)
+Added Component: Designator=Temp3_U_TempSensor1(MLX90614)
+Added Component: Designator=Temp3_U_TempSensor2(MLX90614)
+Added Component: Designator=Temp3_U_TempSensor3(MLX90614)
+Added Component: Designator=Temp3_U_TempSensor4(MLX90614)
+Added Component: Designator=U1(SOP8)
+Added Pin To Net: NetName=CAN H Pin=P1-2
+Added Net: Name=CAN H
+Added Pin To Net: NetName=CAN L Pin=P1-3
+Added Pin To Net: NetName=CAN L Pin=R1-1
+Added Pin To Net: NetName=CAN L Pin=U1-6
+Added Net: Name=CAN L
+Added Pin To Net: NetName=CAN RXM Pin=J1-33
+Added Net: Name=CAN RXM
+Added Pin To Net: NetName=CAN RX Pin=U1-4
+Added Net: Name=CAN RX
+Added Pin To Net: NetName=CAN TXM Pin=J1-32
+Added Net: Name=CAN TXM
+Added Pin To Net: NetName=CAN TX Pin=U1-1
+Added Net: Name=CAN TX
+Added Pin To Net: NetName=GND Pin=C3_U_TempSensor1-2
+Added Pin To Net: NetName=GND Pin=C3_U_TempSensor2-2
+Added Pin To Net: NetName=GND Pin=C3_U_TempSensor3-2
+Added Pin To Net: NetName=GND Pin=C3_U_TempSensor4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-23
+Added Pin To Net: NetName=GND Pin=J1-35
+Added Pin To Net: NetName=GND Pin=J1-47
+Added Pin To Net: NetName=GND Pin=J1-49
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=REG1-4
+Added Pin To Net: NetName=GND Pin=REG1-6
+Added Pin To Net: NetName=GND Pin=REG1-8
+Added Pin To Net: NetName=GND Pin=REG1-11
+Added Pin To Net: NetName=GND Pin=REG1-12
+Added Pin To Net: NetName=GND Pin=REG1-17
+Added Pin To Net: NetName=GND Pin=Temp3_U_TempSensor1-2
+Added Pin To Net: NetName=GND Pin=Temp3_U_TempSensor2-2
+Added Pin To Net: NetName=GND Pin=Temp3_U_TempSensor3-2
+Added Pin To Net: NetName=GND Pin=Temp3_U_TempSensor4-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=REG1-9
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=REG1-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=L11-2
+Added Pin To Net: NetName=NetC11_2 Pin=REG1-3
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetJ1_44 Pin=J1-44
+Added Pin To Net: NetName=NetJ1_44 Pin=R2-1
+Added Net: Name=NetJ1_44
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-7
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=REG1-7
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NRST Pin=J1-34
+Added Pin To Net: NetName=NRST Pin=P4-2
+Added Net: Name=NRST
+Added Pin To Net: NetName=SCL Pin=J1-42
+Added Pin To Net: NetName=SCL Pin=Temp3_U_TempSensor1-1
+Added Pin To Net: NetName=SCL Pin=Temp3_U_TempSensor2-1
+Added Pin To Net: NetName=SCL Pin=Temp3_U_TempSensor3-1
+Added Pin To Net: NetName=SCL Pin=Temp3_U_TempSensor4-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J1-43
+Added Pin To Net: NetName=SDA Pin=Temp3_U_TempSensor1-0
+Added Pin To Net: NetName=SDA Pin=Temp3_U_TempSensor2-0
+Added Pin To Net: NetName=SDA Pin=Temp3_U_TempSensor3-0
+Added Pin To Net: NetName=SDA Pin=Temp3_U_TempSensor4-0
+Added Net: Name=SDA
+Added Pin To Net: NetName=SWCLK Pin=J1-30
+Added Pin To Net: NetName=SWCLK Pin=P4-4
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J1-31
+Added Pin To Net: NetName=SWDIO Pin=P4-3
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=V BATT Pin=REG1-1
+Added Pin To Net: NetName=V BATT Pin=REG1-16
+Added Net: Name=V BATT
+Added Pin To Net: NetName=VBATT Pin=P1-1
+Added Net: Name=VBATT
+Added Pin To Net: NetName=VCC_3_3V Pin=C3_U_TempSensor1-1
+Added Pin To Net: NetName=VCC_3_3V Pin=C3_U_TempSensor2-1
+Added Pin To Net: NetName=VCC_3_3V Pin=C3_U_TempSensor3-1
+Added Pin To Net: NetName=VCC_3_3V Pin=C3_U_TempSensor4-1
+Added Pin To Net: NetName=VCC_3_3V Pin=C21-2
+Added Pin To Net: NetName=VCC_3_3V Pin=J1-1
+Added Pin To Net: NetName=VCC_3_3V Pin=J1-9
+Added Pin To Net: NetName=VCC_3_3V Pin=J1-24
+Added Pin To Net: NetName=VCC_3_3V Pin=J1-36
+Added Pin To Net: NetName=VCC_3_3V Pin=J1-48
+Added Pin To Net: NetName=VCC_3_3V Pin=L11-1
+Added Pin To Net: NetName=VCC_3_3V Pin=P4-1
+Added Pin To Net: NetName=VCC_3_3V Pin=R11-1
+Added Pin To Net: NetName=VCC_3_3V Pin=R21-2
+Added Pin To Net: NetName=VCC_3_3V Pin=Temp3_U_TempSensor1-3
+Added Pin To Net: NetName=VCC_3_3V Pin=Temp3_U_TempSensor2-3
+Added Pin To Net: NetName=VCC_3_3V Pin=Temp3_U_TempSensor3-3
+Added Pin To Net: NetName=VCC_3_3V Pin=Temp3_U_TempSensor4-3
+Added Pin To Net: NetName=VCC_3_3V Pin=U1-3
+Added Net: Name=VCC_3_3V
+Added Class: Name=Top Level
+Added Class: Name=U_Buck Converter
+Added Class: Name=U_CanTranceiver
+Added Class: Name=U_Micro
+Added Class: Name=U_TempSensor1
+Added Class: Name=U_TempSensor2
+Added Class: Name=U_TempSensor3
+Added Class: Name=U_TempSensor4
+Added Class: Name=TempSensor
+Added Room: Name=Top Level
+Added Room: Name=U_Buck Converter
+Added Room: Name=U_CanTranceiver
+Added Room: Name=U_Micro
+Added Room: Name=U_TempSensor1
+Added Room: Name=U_TempSensor2
+Added Room: Name=U_TempSensor3
+Added Room: Name=U_TempSensor4
